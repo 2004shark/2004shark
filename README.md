@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/hamad-moiz">
     <img src="https://img.shields.io/badge/LinkedIn-hamad--moiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="tel:+923084268511">
+  
     <img src="https://img.shields.io/badge/Phone-+92--308--4268511-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="#">
